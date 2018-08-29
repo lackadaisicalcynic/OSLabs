@@ -1,0 +1,22 @@
+    1  whoami
+    2  pwd
+    3  ls /usr/bin | sort -r | grep gcc > ex1.txt
+    4  history > ex2.txt
+    5  touch ex3.sh
+    6  sh ex3.sh
+    7  sleep --help
+    8  sh ex3.sh
+    9  man date
+   10  sh ex3.sh
+   11  echo -e "date\nsleep 3\ndate"
+   12  echo -e "date\nsleep 3\ndate" > ex3.sh
+   13  sh ex3.sh
+   14  sudo apt-get update
+   15  sudo apt install gcc
+   16  ls /usr/bin | grep gcc | sort -r
+   17  ls/usr/bin | grep gcc | sort -r > ex1.txt
+   18  ls /usr/bin | grep gcc | sort -r > ex1.txt
+   19  mkdir ~/week1
+   20  cd ~/week1
+   21  ls /usr/bin | grep gcc | sort -r > ~/week1/ex1.txt
+   22  history > ex2.txt
