@@ -1,0 +1,2 @@
+Each page requires 13 bit offset(2^13 bits = 8 KB) so there is 2^3 bits for addresses which is 8 entries.
+

@@ -1,0 +1,1 @@
+Virtual memory allows you to use your secondary memory as if it was main memory. However virtual memory is much slower than physical.
