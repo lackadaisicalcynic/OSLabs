@@ -1,6 +1,1 @@
-Frame size:5
-Pages numbers: 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5
-Hit/Miss ratio: 10/5
-Pages numbers: 1 2 3 4 5 6 1 2 3 4 5 6 1 2 3 4 5 6
-Hit/Miss ratio 0/18
-In first case repeating pages are close enough to remain in the frame in the second they are too far and are being replaced by new pages
+The closer same pages occur the more hit rate would be gained(They should be in the range of frame buffer).
