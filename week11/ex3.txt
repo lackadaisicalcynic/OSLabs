@@ -1,0 +1,1 @@
+Stdout stream, that is used for output, resets buffer after \n terminator. In the first case there is no \n and that is why "Hello" string is printed twice. In second case \n is in the end so string hello gets printed once. 
