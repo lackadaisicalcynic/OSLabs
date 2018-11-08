@@ -1,0 +1,7 @@
+real    0m0.053s
+user    0m0.000s
+sys     0m0.000s
+After including O_SYNC flag
+real    0m0.062s
+user    0m0.000s
+sys     0m0.000s
