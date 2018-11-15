@@ -3,7 +3,7 @@
 #include <fcntl.h>
 #include <string.h>
 int main() {
-   FILE* file = fopen("input_ok.txt", "r");
+   FILE* file = fopen("input_dl.txt", "r");
    char s[255];
    int e[100];
    int cnt = 0;
