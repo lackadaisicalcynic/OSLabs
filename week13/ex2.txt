@@ -1,0 +1,5 @@
+Recovery is the way to get rid of deadlock when it is already happened by backing up to the safe states. However, it might work 
+  for a long time going back and forward.
+Avoidance requires all needed information about resourses usage.
+Prevention is set of rules we follow to avoid the deadlock. We assure that at least one of conditions: Mutual-Exclusion, 
+  hold-and-wait, no-preeemption, cirular wait is never satisfied. However it might not be always possible to follow those rules.
